@@ -9,8 +9,6 @@ Lockin is a digital student planner designed to help students stay on top of cla
 - Overview of upcoming work to reduce last‑minute stress
 - Simple, student‑friendly interface focused on clarity and speed
 
-*(Update this list to match your actual features — for example: calendar view, notifications, subject tags, dark mode, etc.)*
-
 ## Why I built this
 
 Managing school work across different apps, paper notes, and emails can get messy fast.[page:1]  
@@ -23,8 +21,6 @@ Lockin brings everything into a single planner so it’s easier to remember dead
 - JavaScript
 - CSS
 - HTML[page:1]
-
-*(Add any frameworks you use, like React, Express, etc.)*
 
 ## Getting started
 
@@ -75,5 +71,4 @@ Open that URL in your browser (for example, `http://localhost:3000`) to launch y
 If you have ideas or notice bugs, feel free to open an issue or submit a pull request.
 
 ## License
-
-Add your chosen license here (for example: MIT, Apache‑2.0), or state that it’s currently unlicensed.
+it’s currently unlicensed.
