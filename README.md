@@ -20,7 +20,7 @@ Lockin brings everything into a single planner so it’s easier to remember dead
 - TypeScript
 - JavaScript
 - CSS
-- HTML[page:1]
+- HTML
 
 ## Getting started
 
