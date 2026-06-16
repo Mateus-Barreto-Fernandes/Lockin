@@ -27,3 +27,16 @@ dist-ssr
 
 # SQLite runtime database files (do not commit user data)
 server/*.db*
+node_modules/
+**/node_modules/
+*.db
+*.db-wal
+*.db-shm
+.env
+.env.local
+dist/
+build/
+uploads/
+.DS_Store
+npm-debug.log
+yarn-error.log
